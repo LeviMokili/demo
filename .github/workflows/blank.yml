@@ -1,4 +1,4 @@
-name: Hello World
+name: my workflow
 on: workflow_dispatch
 jobs:
  debug:
